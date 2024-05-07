@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lisiane-von-ahn
 - 👀 I’m interested in data analyse
-- 🌱 I’m currently learning Python, SQL, Dashboard, NoSQL, MongoDB, Scrum, Pandas...
+- 🌱 I’m currently learning Python, SQL, Dashboard. 
 - 💞️ I’m enthusiastic about collaborating on data analysis projects, especially those involving businnes, sports and health.
 - 📫 How to reach me lisianevonahn@gmail.com
 - 😄 Pronouns: She
